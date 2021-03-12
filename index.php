@@ -127,7 +127,7 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 
           <div class="col-sm-6">
             
-            <img src="images/logo.png" class="img-fluid" width="200" height="250" style="margin-top:20px;">
+            <img src="images/logo.png" class="img-fluid" width="200" height="250" style="margin-center:40px;">
            
           </div>
 
