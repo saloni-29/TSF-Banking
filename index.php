@@ -100,7 +100,6 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
  
      <div class="navbar navbar-expand-md">
    
-      <a href="#" class="navbar-brand font-weight-bold text-white text-center"><h2>TSF BANK</h2></a>
       <button class="navbar-toggler text-white " type="button" data-toggle="collapse" data-target="#collapsenavbar">
       <span class="navbar-toggler-icon" style="background:white;"></span>
       </button>
@@ -128,7 +127,7 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 
           <div class="col-sm-6">
             
-            <img src="images/logo.png" class="img-fluid" width="560" height="345" style="margin-top:20px;">
+            <img src="images/logo.png" class="img-fluid" width="200" height="250" style="margin-top:20px;">
            
           </div>
 
